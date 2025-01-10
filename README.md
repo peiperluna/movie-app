@@ -20,4 +20,4 @@ Vite를 사용해 제작한 간단하고 빠른 영화 애플리케이션입니�
 
 API: omdb API
 
-배포 주소: https://movie-app-lunaping.netlify.app
+[배포 주소](https://movie-app-lunaping.netlify.app)
